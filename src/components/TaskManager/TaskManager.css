@@ -1,0 +1,17 @@
+.main-content{
+    display: flex;
+    background-color: #fff;
+    border-radius: 12px;
+    width: 100%;
+  }
+ 
+  .main-content div{
+    background-color: #fff;
+    margin: 10px;
+  }
+  .form{
+    width:41rem ;
+  }
+  .list{
+    width: 20rem;
+  }

@@ -7,7 +7,7 @@
 }
 body {
   font-family: "Bai Jamjuree", sans-serif;
-   background-color: hsl(24, 19%, 95%)
+   background-color: hsl(26, 10%, 86%)
 
 }
 .text-sm {
@@ -21,7 +21,4 @@ a {
   text-decoration: none;
   color: #fff;
 }
-.App{
-  display: grid;
-  grid-template-columns: 264px 799px 260px;
-}
+

@@ -1,0 +1,76 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Learn Json",
+      "description": "1234",
+      "dueDate": "12/12/1212",
+      "priority": "low",
+      "status": "incomplete"
+    },
+    {
+      "id": "2",
+      "title": "Learn React",
+      "description": "1234",
+      "dueDate": "12/12/1232",
+      "priority": "low",
+      "status": "complete"
+    },
+    {
+      "id": "3",
+      "title": "Learn Redux",
+      "description": "1234",
+      "dueDate": "12/12/1212",
+      "priority": "low",
+      "status": "incomplete"
+    },
+    {
+      "id": "4",
+      "title": "Learn React",
+      "description": "1234",
+      "dueDate": "12/12/1212",
+      "priority": "low",
+      "status": "incomplete"
+    },
+    {
+      "id": "9615",
+      "title": "dsffdsf",
+      "description": "sdfafsa",
+      "dueDate": "1212-12-12",
+      "priority": "medium",
+      "status": "todo"
+    },
+    {
+      "id": "7004",
+      "title": "dsfs",
+      "description": "sdfsgsf",
+      "dueDate": "1212-12-12",
+      "priority": "low",
+      "status": "todo"
+    },
+    {
+      "id": "8c35",
+      "title": "Learn Java",
+      "description": "123",
+      "dueDate": "2323-12-24",
+      "priority": "high",
+      "status": "inProgress"
+    },
+    {
+      "id": 123,
+      "title": "Learn Json",
+      "description": "1234",
+      "dueDate": "12/12/1212",
+      "priority": "low",
+      "status": "incomplete"
+    },
+    {
+      "id": "97d4",
+      "title": "srdt",
+      "description": "gsfdgfs",
+      "dueDate": "1221-12-12",
+      "priority": "low",
+      "status": "todo"
+    }
+  ]
+}

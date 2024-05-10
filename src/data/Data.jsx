@@ -1,5 +1,4 @@
 import { iconsImgs } from "../utiles/img";
-import { personsImgs } from "../utiles/img";
 
 
 export const navigationList = [
